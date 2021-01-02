@@ -6,7 +6,7 @@ I'm a current high school senior attending Eastlake High School. I'm a software 
 ### Projects
 |Name|Description|Tooling|
 |-|-|-|
-|[React Portfolio]()|Personal Portfolio Built using React|<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>|
+|[React Portfolio](https://github.com/Zjjc123/react-portfolio)|Personal Portfolio Built using React|<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>|
 |[EHS Community Service](https://github.com/eastlakehs/community-service-tracker-info)|React and Firebase Community Service Tracker Website|<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>|
 |[Dream's Speed Run Simulation](https://github.com/Zjjc123/DreamSpeedrunSimulation)|Using Python to Simulate Dream's Speedrunning Luck|<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>|
 |[Vitality](https://github.com/Zjjc123/Vitality)|Overall Health and Fitness App|<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>|
