@@ -1,4 +1,4 @@
-### 👋 Hi my name is [Jason Zhang](https://jasonzhang.dev) 
+### 👋 Hi my name is [Jason Zhang](https://jasonzhang.dev). Here is my [Resume](https://github.com/Zjjc123/resume)!
 I'm a current high school senior attending Eastlake High School. I'm a software developer and an aspiring filmmaker and photographer. 
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=zjjc123&theme=dark)
