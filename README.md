@@ -1,4 +1,4 @@
-### 👋 Hi my name is [Jason Zhang](https://jasonzhang.dev). Here is my [Resume](https://github.com/Zjjc123/resume/blob/main/main.pdf)!
+### 👋 Hi my name is [Jason Zhang](https://jasonzhang.dev).
 I'm a current computer science student attending the University of Washington. 
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=zjjc123&theme=dark)
